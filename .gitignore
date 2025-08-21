@@ -1,0 +1,13 @@
+# Object files
+*.o
+
+# Libraries
+*.a
+*.so
+
+# Executables
+*.out
+
+# macOS
+.DS_Store
+
