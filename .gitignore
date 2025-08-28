@@ -7,6 +7,7 @@
 
 # Executables
 *.out
+*.exe
 main
 
 # macOS
