@@ -38,6 +38,41 @@ This directory contains a comprehensive collection of C programs designed to hel
 - **Learning Objectives**: Conditional logic, different approaches to same problem
 - **Key Features**: Check if number is even or odd using multiple methods
 
+#### `factorial_fibonacci.c`
+- **Concept**: Loops, recursion, basic algorithms
+- **Learning Objectives**: Implement factorial and Fibonacci sequences
+- **Key Features**: Calculates factorial and generates Fibonacci series
+
+#### `prime_number_checker.c`
+- **Concept**: Loops, conditional statements
+- **Learning Objectives**: Algorithm to check for prime numbers
+- **Key Features**: Checks if a given integer is a prime number
+
+#### `palindrome_checker.c`
+- **Concept**: String and number manipulation
+- **Learning Objectives**: Reverse a string or number to check for palindrome property
+- **Key Features**: Checks if a given string or number is a palindrome
+
+#### `matrix_multiplication.c`
+- **Concept**: 2D arrays, nested loops
+- **Learning Objectives**: Perform matrix multiplication
+- **Key Features**: Multiplies two matrices of compatible dimensions
+
+#### `armstrong_number_checker.c`
+- **Concept**: Number manipulation, loops, `math.h` library
+- **Learning Objectives**: Check for Armstrong numbers
+- **Key Features**: Checks if a number is an Armstrong number
+
+#### `quadratic_equation_solver.c`
+- **Concept**: Mathematical formulas, `math.h` library, conditional statements
+- **Learning Objectives**: Solve quadratic equations
+- **Key Features**: Finds the roots of a quadratic equation
+
+#### `decimal_to_binary_converter.c`
+- **Concept**: Bitwise operations, loops
+- **Learning Objectives**: Convert a decimal number to its binary representation
+- **Key Features**: Converts a decimal number to binary
+
 ### 3. Conditional Statement Programs
 
 #### `largest_of_three.c`
@@ -56,11 +91,6 @@ This directory contains a comprehensive collection of C programs designed to hel
 - **Concept**: for, while, do-while loops
 - **Learning Objectives**: Different loop types, repetitive operations
 - **Key Features**: Generate multiplication tables using all three loop types
-
-#### `fibonacci_series.c`
-- **Concept**: for loops, sequence generation, mathematical series
-- **Learning Objectives**: Loop control, sequence logic, mathematical patterns
-- **Key Features**: Generate Fibonacci series with position display
 
 #### `pattern_printing.c`
 - **Concept**: Nested loops, pattern logic, menu-driven programming
